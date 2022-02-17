@@ -1,4 +1,5 @@
-//
+let firstName = "Jane";
+let age = 35;
 //
 //
 // TODO: Declare the variables firstName and age so that the tests pass
